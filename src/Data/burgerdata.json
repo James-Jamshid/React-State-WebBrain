@@ -1,0 +1,94 @@
+{
+  "data": {
+    "burgers": [
+      {
+        "lotteria": {
+          "id": 1,
+          "desc": "sweet",
+          "name": "Shrimp Burger",
+          "price": "4000$",
+          "banner": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/--_0847895d26874c3878faf23e275d16a91574820547.jpg"
+        }
+      },
+      {
+        "lotteria": {
+          "id": 2,
+          "desc": "sweet",
+
+          "name": "Folder Burger Beef",
+          "price": "4000$",
+          "banner": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/--_0847895d26874c3878faf23e275d16a91574820547.jpg"
+        }
+      },
+      {
+        "lotteria": {
+          "id": 3,
+          "desc": "sweet",
+
+          "name": "RiaMiracle Burger",
+          "price": "4000$",
+          "banner": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/--_0847895d26874c3878faf23e275d16a91574820547.jpg"
+        }
+      },
+      {
+        "lotteria": {
+          "id": 4,
+          "desc": "sweet",
+
+          "name": "DoubleX2",
+          "price": "4000$",
+          "banner": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/--_0847895d26874c3878faf23e275d16a91574820547.jpg"
+        }
+      },
+      {
+        "lotteria": {
+          "id": 5,
+          "name": "Chicken Burger",
+          "price": "4000$",
+          "banner": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/--_0847895d26874c3878faf23e275d16a91574820547.jpg"
+        }
+      },
+      {
+        "lotteria": {
+          "id": 6,
+          "desc": "sweet",
+
+          "name": "Chicken Burger",
+          "price": "4000$",
+          "banner": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/--_0847895d26874c3878faf23e275d16a91574820547.jpg"
+        }
+      },
+      {
+        "lotteria": {
+          "id": 7,
+          "desc": "sweet",
+
+          "name": "Mozzarella In The Burger - Bacon",
+          "price": 3400,
+          "banner": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/--_0847895d26874c3878faf23e275d16a91574820547.jpg"
+        }
+      },
+      {
+        "lotteria": {
+          "id": 8,
+          "desc": "sweet",
+
+          "name": "Big Bulgogi",
+          "price": "4000$",
+          "banner": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/--_0847895d26874c3878faf23e275d16a91574820547.jpg"
+        }
+      },
+      {
+        "lotteria": {
+          "id": 9,
+          "desc": "sweet",
+
+          "name": "Teri Burger",
+          "price": 2900,
+          "banner": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/--_0847895d26874c3878faf23e275d16a91574820547.jpg"
+        },
+        "name": "Big Bulgogi"
+      }
+    ]
+  }
+}
