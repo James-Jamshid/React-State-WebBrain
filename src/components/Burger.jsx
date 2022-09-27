@@ -1,5 +1,5 @@
 import React from "react";
-import StatePage from "./MappingPage";
+import StatePage from "./StatePage";
 import { Burger, BUrgerInner, ChildInform, Img, Inform, Title } from "./Styled";
 
 const BurgerPage = ({ value }) => {

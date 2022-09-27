@@ -1,24 +1,17 @@
 import React from "react";
 import BurgerPage from "./Burger";
 import fruits from "../Data/burgerdata.json";
+import NavbarPage from "./NavbarPage";
 
-import {
-  Child,
-  // BUrgerInner,
-  // Button,
-  // Child,
-  Container,
-  // Img,
-  // Inform,
-  // Title,
-} from "./Styled";
+import { Child, Container } from "./Styled";
 
-const HomePage = ({ value }) => {
+const HomePage = () => {
   return (
     <Container>
       <Child>
-        {fruits.data.burgers.map((value, index) => {
-          return <BurgerPage value={value} />;
+        <NavbarPage />
+        {fruits.data.burgers.map((value, key) => {
+          return <BurgerPage value={value} key={key} />;
         })}
       </Child>
     </Container>

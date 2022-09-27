@@ -14,7 +14,7 @@ export const Container = styled.div`
     height: 30px;
 
     background: green;
-    border: none;
+    /* border: none; */
     cursor: pointer;
   }
   button:hover {

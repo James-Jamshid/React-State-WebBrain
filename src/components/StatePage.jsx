@@ -3,11 +3,14 @@ import { Container } from "./State";
 
 const StatePage = () => {
   const [count, setCount] = useState(0);
+
   const Increment = () => {
     setCount(count + 1);
   };
   const Decrement = () => {
-    setCount(count - 1);
+    if (count > 0) {
+      setCount(count - 1);
+    }
   };
   return (
     <Container>
