@@ -14,7 +14,6 @@ const Root = () => {
       <Notification newMsg={3} />
 
       <NewMessage />
-
       {/* <MappingPage /> */}
     </div>
   );
