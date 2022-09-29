@@ -1,6 +1,6 @@
 import React from "react";
-import BurgerPage from "./Burger";
-import fruits from "../Data/burgerdata.json";
+import BurgerPage from "../BurgerSite/Burger";
+import fruits from "../../Data/burgerdata.json";
 import NavbarPage from "./NavbarPage";
 
 import { Child, Container } from "./Styled";

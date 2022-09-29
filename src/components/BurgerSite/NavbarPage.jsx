@@ -7,6 +7,7 @@ const NavbarPage = () => {
 
   const onChange = (e) => {
     setText(e.target.value);
+    console.log(e.target.name);
   };
   const onSurname = (e) => {
     setSearch(e.target.value);
@@ -16,7 +17,12 @@ const NavbarPage = () => {
     <Container>
       <div>
         <h1>name: </h1>
-        <input onChange={onChange} type="text" placeholder="name" />
+        <input
+          name="jamshid"
+          onChange={onChange}
+          type="text"
+          placeholder="name"
+        />
         {text}
       </div>
       <div>

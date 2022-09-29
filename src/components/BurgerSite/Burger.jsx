@@ -1,6 +1,13 @@
 import React from "react";
-import StatePage from "./StatePage";
-import { Burger, BUrgerInner, ChildInform, Img, Inform, Title } from "./Styled";
+import StatePage from "../BurgerSite/StatePage";
+import {
+  Burger,
+  BUrgerInner,
+  ChildInform,
+  Img,
+  Inform,
+  Title,
+} from "../BurgerSite/Styled";
 
 const BurgerPage = ({ value }) => {
   return (
